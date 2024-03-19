@@ -11,64 +11,48 @@
 <!-- My CV/resume -->
 <details>
 <summary>절 소개해요!</summary>
-
-## 소개 🙌
-요즘은 이런걸 하고 있습니다.
 <br>
+
+## 안녕하세요 🙌
+백준 알고리즘, 졸업작품, 취업준비
+<br><br>
 
 
 ## 기술 💻
 <!-- ``` 여기에 무엇을 적으면 표시? 를 할 수 있음, 날자라던가 세부사항 적으면 됨. ``` -->
-<span>
-    <img src="https://img.shields.io/badge/ C language-blueviolet?style=plastic&logo=C&logoColor=white"/>
-</span>
-<br>
+<a href="#">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
+</a>
+<br><br>
 
 
 ## 공부중 📝
-경기게임마이스터고등학교 졸업 예정 (2024)
+알고리즘, 언리얼, 유니티 ML, 다이렉트 X
 <br>
+
+## 연락 수단
+<a href=mailto:ggm.s220105@ggh.goe.go.kr>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ggm.s220105@ggh.goe.go.kr"> </a>
 
 </details>
 <br>
 
 <!-- My profile -->
-## 백준 문제 풀이 👍
-<img alt="" src="http://mazassumnida.wtf/api/generate_badge?boj=tjddms0923">
-<!-- 주로 사용하는 언어
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lIo0O0oIl&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38%>
--->
+## 백준 문제 풀이 🏃
+<a href="#">
+<img alt="BaekJoonTier" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tjddms0923"><img src="http://mazandi.herokuapp.com/api?handle=tjddms0923&theme=cold"/>
+  
+<br>
 
-<!-- 깃허브 상태
-<img src="https://github-readme-stats.vercel.app/api?username=lIo0O0oIl&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56%>
--->
-
-<!-- 스네이크 만들어서 넣어주기
-<img src="https://github.com/junia3/junia3/blob/output/mysnake.svg" width="100%">
--->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lIo0O0oIl&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=31.5% /><img src="https://github-readme-stats.vercel.app/api?username=lIo0O0oIl&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=46% />
+</a>
 
 <!-- 방문 기록수
 <div align="right">
-<img alt="" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FlIo0O0oIl&count_bg=%23A2A2A2&title_bg=%23555555&icon=&icon_color=%23BFBFBF&title=hits&edge_flat=false">
+<img alt="Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FlIo0O0oIl&count_bg=%23586AFF&title_bg=%2320232a&icon=github.svg&icon_color=%23FFFFFF&title=Hello!&edge_flat=false">
 </div>
 -->
 
 <!-- Footer banner -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
 </div>
-
-
-<!--
-**lIo0O0oIl/lIo0O0oIl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
