@@ -6,38 +6,34 @@
 <a href="#">
   <img  alt="Typing Me" src="https://readme-typing-svg.demolab.com?font=Lobster&size=35&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+lIo0O0oIl.">
 </a>
-<br><br>
+<br><br><br>
  
 <!-- My CV/resume -->
 <details>
 <summary>절 소개해요!</summary>
 
-## 요즘
+## 소개 🙌
 요즘은 이런걸 하고 있습니다.
 <br>
 
 
-## 업무 경험
+## 기술 💻
 <!-- ``` 여기에 무엇을 적으면 표시? 를 할 수 있음, 날자라던가 세부사항 적으면 됨. ``` -->
-업무 경험 적기
-<br>
-
-
-## 학력
-경기게임마이스터고등학교 졸업 예정 (2024)
-<br>
-
-
-## 기술
 <span>
     <img src="https://img.shields.io/badge/ C language-blueviolet?style=plastic&logo=C&logoColor=white"/>
 </span>
-<!--쓸지 말지 고민하고 적기-->
+<br>
+
+
+## 공부중 📝
+경기게임마이스터고등학교 졸업 예정 (2024)
+<br>
 
 </details>
 <br>
 
 <!-- My profile -->
+## 백준 문제 풀이 👍
 <img alt="" src="http://mazassumnida.wtf/api/generate_badge?boj=tjddms0923">
 <!-- 주로 사용하는 언어
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lIo0O0oIl&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38%>
