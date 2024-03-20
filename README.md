@@ -37,14 +37,17 @@
 </details>
 <br>
 
-<!-- My profile -->
+
 ## 백준 문제 풀이 🏃
 <a href="#">
-<img alt="BaekJoonTier" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tjddms0923"><img src="http://mazandi.herokuapp.com/api?handle=tjddms0923&theme=cold"/>
-  
-<br>
+<img alt="BaekJoonTier" width=38.75% src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tjddms0923"><img alt="BaekJoon" width=38.75% src="http://mazandi.herokuapp.com/api?handle=tjddms0923&theme=cold">
+</a>
+<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lIo0O0oIl&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=31.5% /><img src="https://github-readme-stats.vercel.app/api?username=lIo0O0oIl&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=46% />
+
+## 깃허브 스텟 💪
+<!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=lIo0O0oIl&theme=calm">-->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lIo0O0oIl&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=31.5%><img src="https://github-readme-stats.vercel.app/api?username=lIo0O0oIl&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=46%>
 </a>
 
 <!-- 방문 기록수
