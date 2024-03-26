@@ -16,18 +16,18 @@
 <br>
 
 ## 안녕하세요 🙌
-저는 경기게임마이스터고 3학년에 재학중 입니다.  
-매일 알고리즘 문제를 풀고,  
-졸업작품 제작과 취업을 준비하고있습니다.
+저는 경기게임마이스터고 3학년입니다.  
+저는 매일 알고리즘 문제를 풀고 새로운 것을 배우며,  
+졸업작품 제작과 취업을 준비하고 있습니다.
 <br><br>
 
 
-## 기술 💻
+## 사용합니다 💻
 <!-- ``` C#과 C++, 유니티와 비쥬얼스튜디오2022 ``` -->
 <a href="#">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
   
-  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"><img src="https://img.shields.io/badge/Visual%20Studio%202022-5C2D91?style=for-the-badge&logo=Visual%20Studio&logoColor=white">
+  <img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"><img src="https://img.shields.io/badge/Visual%20Studio%202022-5C2D91?style=for-the-badge&logo=Visual%20Studio&logoColor=white">
   <!-- 깃허브 배지
   <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
   -->
@@ -35,19 +35,24 @@
 <br>
 
 
-## 공부중 📝
-알고리즘, 언리얼, 유니티 ML, 다이렉트 X
-<br><br>
-
-## 연락 수단
-<a href=mailto:ggm.s220105@ggh.goe.go.kr>
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ggm.s220105@ggh.goe.go.kr">
+## 공부합니다 📝
+<a href="#">
+  <img src="https://img.shields.io/badge/algorithm-%23000000.svg?style=for-the-badge&logo=thealgorithms&logoColor=white"><img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"><img src="https://img.shields.io/badge/unreal-%23000000.svg?style=for-the-badge&logo=unrealengine&logoColor=white"><img src="https://img.shields.io/badge/Direct%20X-%23000000.svg?style=for-the-badge&logoColor=white">
 </a>
 <br><br>
 
+
+## 연락합니다 ☎️
 <!--
+<a href="sdfsdfs">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"></a>-->
+<a href=mailto:ggm.s220105@ggh.goe.go.kr> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ggm.s220105@ggh.goe.go.kr">
+</a>
+<br><br>
+
+
+<!-- 학교에 작성해둔 포폴을 올려두기
 ## 포트폴리오
-<!-- 학교에 작성해둔 포폴을 올려두기 -->
 -->
 
 </details>
