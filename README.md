@@ -6,7 +6,7 @@
 
 <!-- Typing Me -->
 <a href="#">
-  <img  alt="Typing Me" src="https://readme-typing-svg.demolab.com?font=Lobster&size=35&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+lIo0O0oIl.">
+  <img  alt="Typing Me" src="https://readme-typing-svg.demolab.com?font=Lobster&size=35&pause=1000&color=B7B7B7&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+lIo0O0oIl.">
 </a>
 <br><br><br>
 
@@ -16,9 +16,9 @@
 <br>
 
 ## 안녕하세요 🙌
-저는 경기게임마이스터고 3학년입니다.  
-저는 매일 알고리즘 문제를 풀고 새로운 것을 배우며,  
-졸업작품 제작과 취업을 준비하고 있습니다.
+저는 경기게임마이스터고에 재학중입니다.
+저는 꾸준히 알고리즘 문제를 풀고 새로운 것을 배우며,  
+졸업작품 개발하고 취업을 준비하고 있습니다.
 <br><br>
 
 
