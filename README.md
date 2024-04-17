@@ -69,7 +69,7 @@
 ## 깃허브 스텟 💪
 <a href="#">
 <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=lIo0O0oIl&theme=calm">-->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lIo0O0oIl&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application&hide=ShaderLab" width=31.5%><img src="https://github-readme-stats.vercel.app/api?username=lIo0O0oIl&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=46%>
+  <img alt="GitUseLanguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lIo0O0oIl&theme=graywhite&hide=ShaderLab&layout=compact" width=41%><img alt="GitHubStat" src="https://github-readme-stats.vercel.app/api?username=lIo0O0oIl&theme=graywhite&show_icons=true" width=46%>
 <!-- 기여 그래프와 스네이크
 <img src="https://github.com/lIo0O0oIl/lIo0O0oIl/blob/output/github-snake-dark.svg" width="77.5%">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lIo0O0oIl&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=77.5%>
