@@ -46,7 +46,7 @@
 <!--
 <a href="sdfsdfs">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"></a>-->
-<a href=mailto:ggm.s220105@ggh.goe.go.kr> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ggm.s220105@ggh.goe.go.kr">
+<a href=mailto:silver22castle@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ggm.s220105@ggh.goe.go.kr">
 </a>
 <br><br>
 
